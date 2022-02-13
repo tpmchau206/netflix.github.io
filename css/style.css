@@ -482,11 +482,9 @@ i {
         font-size: 12px;
     }
     .top {
-        font-size: 1000%;
-        transform: translate(20px, -27px);
+        font-size: 1140%;
     }
     .top-pic {
         width: 100px;
-        transform: translateX(75%);
     }
 }
